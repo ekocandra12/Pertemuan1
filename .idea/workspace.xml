@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8282ccf-258d-4f8f-bbae-53be9cbc97a7" name="Default Changelist" comment="" />
+    <list default="true" id="a8282ccf-258d-4f8f-bbae-53be9cbc97a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/d_blokdankomentar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,13 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646898718257</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="contoh whitespaces di kotlin">
+      <created>1646899167640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646899167640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inisial kotlin pertemuan 1" />
     <MESSAGE value="percobaan pertama kotlin" />
     <MESSAGE value="contoh literal di kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="contoh literal di kotlin" />
+    <MESSAGE value="contoh whitespaces di kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="contoh whitespaces di kotlin" />
   </component>
 </project>
