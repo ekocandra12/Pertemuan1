@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8282ccf-258d-4f8f-bbae-53be9cbc97a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/f_var.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/b_Literal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/b_Literal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/c_whitespace.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/c_whitespace.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/d_blokdankomentar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/d_blokdankomentar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/e_variabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/e_variabel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.E_variabelKt">
+  <component name="RunManager" selected="Application.F_varKt">
     <configuration name="A_MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="pertemuan1" />
       <option name="VM_PARAMETERS" />
@@ -87,8 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="F_varKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="pertemuan1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="F_varKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F_varKt" />
         <item itemvalue="Application.E_variabelKt" />
         <item itemvalue="Application.A_MainAppKt" />
         <item itemvalue="Application.C_whitespaceKt" />
@@ -161,7 +172,42 @@
       <option name="project" value="LOCAL" />
       <updated>1646900589603</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="contoh contoh literal di kotlin">
+      <created>1646900636516</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900636516</updated>
+    </task>
+    <task id="LOCAL-00010" summary="contoh kode program whitespace">
+      <created>1646900669446</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900669446</updated>
+    </task>
+    <task id="LOCAL-00011" summary="contoh penggunaan blok dan komentar">
+      <created>1646900703277</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900703277</updated>
+    </task>
+    <task id="LOCAL-00012" summary="contoh kode program penggunaan variabel">
+      <created>1646900746341</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900746341</updated>
+    </task>
+    <task id="LOCAL-00013" summary="contoh kode program penggunaan variabel">
+      <created>1646900900839</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900900839</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +216,10 @@
     <MESSAGE value="contoh whitespaces di kotlin" />
     <MESSAGE value="contoh kode Variabel" />
     <MESSAGE value="percobaan pertama kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="percobaan pertama kotlin" />
+    <MESSAGE value="contoh contoh literal di kotlin" />
+    <MESSAGE value="contoh kode program whitespace" />
+    <MESSAGE value="contoh penggunaan blok dan komentar" />
+    <MESSAGE value="contoh kode program penggunaan variabel" />
+    <option name="LAST_COMMIT_MESSAGE" value="contoh kode program penggunaan variabel" />
   </component>
 </project>
