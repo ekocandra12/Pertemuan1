@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8282ccf-258d-4f8f-bbae-53be9cbc97a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/e_variabel.kt" afterDir="false" />
-    </list>
+    <list default="true" id="a8282ccf-258d-4f8f-bbae-53be9cbc97a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646899555910</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="contoh kode Variabel">
+      <created>1646900221514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900221514</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +149,7 @@
     <MESSAGE value="percobaan pertama kotlin" />
     <MESSAGE value="contoh literal di kotlin" />
     <MESSAGE value="contoh whitespaces di kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="contoh whitespaces di kotlin" />
+    <MESSAGE value="contoh kode Variabel" />
+    <option name="LAST_COMMIT_MESSAGE" value="contoh kode Variabel" />
   </component>
 </project>
