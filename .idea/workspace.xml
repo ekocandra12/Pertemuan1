@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8282ccf-258d-4f8f-bbae-53be9cbc97a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/f_var.kt" afterDir="false" />
+    <list default="true" id="a8282ccf-258d-4f8f-bbae-53be9cbc97a7" name="Default Changelist" comment="contoh penggunaan var dan val">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/v_perintahmasukan_dikotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -30,68 +31,69 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.F_varKt">
-    <configuration name="A_MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Y_program_kalkulator_sederhanaKt">
+    <configuration name="T_program_caesar_chiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="pertemuan1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="A_MainAppKt" />
+      <option name="MAIN_CLASS_NAME" value="T_program_caesar_chiperKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="U_program_sandi_morseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="pertemuan1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="B_LiteralKt" />
+      <option name="MAIN_CLASS_NAME" value="U_program_sandi_morseKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_whitespaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="V_perintahmasukan_dikotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="pertemuan1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="C_whitespaceKt" />
+      <option name="MAIN_CLASS_NAME" value="V_perintahmasukan_dikotlinKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E_variabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="X_perintahmasukkan2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="pertemuan1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="E_variabelKt" />
+      <option name="MAIN_CLASS_NAME" value="X_perintahmasukkan2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F_varKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Y_program_kalkulator_sederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="pertemuan1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="F_varKt" />
+      <option name="MAIN_CLASS_NAME" value="Y_program_kalkulator_sederhanaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.F_varKt" />
-        <item itemvalue="Application.E_variabelKt" />
-        <item itemvalue="Application.A_MainAppKt" />
-        <item itemvalue="Application.C_whitespaceKt" />
-        <item itemvalue="Application.B_LiteralKt" />
+        <item itemvalue="Application.Y_program_kalkulator_sederhanaKt" />
+        <item itemvalue="Application.X_perintahmasukkan2Kt" />
+        <item itemvalue="Application.V_perintahmasukan_dikotlinKt" />
+        <item itemvalue="Application.U_program_sandi_morseKt" />
+        <item itemvalue="Application.T_program_caesar_chiperKt" />
       </list>
     </recent_temporary>
   </component>
@@ -207,8 +209,146 @@
       <option name="project" value="LOCAL" />
       <updated>1646900900839</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="contoh penggunaan var dan val">
+      <created>1646901336799</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1646901336799</updated>
+    </task>
+    <task id="LOCAL-00015" summary="contoh kode program tipe data d kotlin">
+      <created>1647352320159</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1647352320159</updated>
+    </task>
+    <task id="LOCAL-00016" summary="contoh kode program tipe data bilangan decimal dikotlin">
+      <created>1647352529869</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1647352529870</updated>
+    </task>
+    <task id="LOCAL-00017" summary="contoh program menggunakan literal konstan">
+      <created>1647352685989</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1647352685989</updated>
+    </task>
+    <task id="LOCAL-00018" summary="contoh program underscore dalam literal">
+      <created>1647352815467</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647352815467</updated>
+    </task>
+    <task id="LOCAL-00019" summary="contoh program representasi di kotlin">
+      <created>1647353009609</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1647353009609</updated>
+    </task>
+    <task id="LOCAL-00020" summary="contoh program representasi di kotlin">
+      <created>1647353039093</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1647353039093</updated>
+    </task>
+    <task id="LOCAL-00021" summary="contoh kode penerapan konversi secara eksplisit">
+      <created>1647353209810</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1647353209810</updated>
+    </task>
+    <task id="LOCAL-00022" summary="contoh kode penerapan character">
+      <created>1647353410094</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1647353410094</updated>
+    </task>
+    <task id="LOCAL-00023" summary="contoh kode penerapan konfensi eksplisit dalam char">
+      <created>1647353539570</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1647353539570</updated>
+    </task>
+    <task id="LOCAL-00024" summary="contoh kode penerapan boolean">
+      <created>1647353668729</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1647353668729</updated>
+    </task>
+    <task id="LOCAL-00025" summary="contoh kode penerapan string">
+      <created>1647353876043</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1647353876043</updated>
+    </task>
+    <task id="LOCAL-00026" summary="contoh kode penerapan string">
+      <created>1647354106103</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1647354106103</updated>
+    </task>
+    <task id="LOCAL-00027" summary="contoh kode penerapan string templates">
+      <created>1647354229311</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1647354229311</updated>
+    </task>
+    <task id="LOCAL-00028" summary="contoh kode Fungsi anggota pada string">
+      <created>1647354507443</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1647354507443</updated>
+    </task>
+    <task id="LOCAL-00029" summary="contoh kode penerapan string">
+      <created>1647354723555</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1647354723555</updated>
+    </task>
+    <task id="LOCAL-00030" summary="contoh kode program caesar chiper">
+      <created>1647354881087</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1647354881087</updated>
+    </task>
+    <task id="LOCAL-00031" summary="contoh kode program sandi morse">
+      <created>1647355112975</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1647355112975</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inisial kotlin pertemuan 1" />
@@ -220,6 +360,21 @@
     <MESSAGE value="contoh kode program whitespace" />
     <MESSAGE value="contoh penggunaan blok dan komentar" />
     <MESSAGE value="contoh kode program penggunaan variabel" />
-    <option name="LAST_COMMIT_MESSAGE" value="contoh kode program penggunaan variabel" />
+    <MESSAGE value="contoh penggunaan var dan val" />
+    <MESSAGE value="contoh kode program tipe data d kotlin" />
+    <MESSAGE value="contoh kode program tipe data bilangan decimal dikotlin" />
+    <MESSAGE value="contoh program menggunakan literal konstan" />
+    <MESSAGE value="contoh program underscore dalam literal" />
+    <MESSAGE value="contoh program representasi di kotlin" />
+    <MESSAGE value="contoh kode penerapan konversi secara eksplisit" />
+    <MESSAGE value="contoh kode penerapan character" />
+    <MESSAGE value="contoh kode penerapan konfensi eksplisit dalam char" />
+    <MESSAGE value="contoh kode penerapan boolean" />
+    <MESSAGE value="contoh kode penerapan string templates" />
+    <MESSAGE value="contoh kode Fungsi anggota pada string" />
+    <MESSAGE value="contoh kode penerapan string" />
+    <MESSAGE value="contoh kode program caesar chiper" />
+    <MESSAGE value="contoh kode program sandi morse" />
+    <option name="LAST_COMMIT_MESSAGE" value="contoh kode program sandi morse" />
   </component>
 </project>
