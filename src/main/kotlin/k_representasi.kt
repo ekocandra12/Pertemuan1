@@ -7,4 +7,9 @@ fun main(args: Array<String>) {
             anotherBoxedA))
     println("boxedA apakah memiliki nilai yang sama dengan anotherBoxedA atau boxedA == anotherBoxedA : "
             + (boxedA == anotherBoxedA))
+
+    /**
+     * Untuk literal number penunjukan nilai (boxing) pada sebuah variabel tidak akan berpengaruh
+    pada identitas suatu variabel.
+     */
 }
